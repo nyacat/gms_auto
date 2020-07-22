@@ -1,0 +1,23 @@
+{
+  "global": {
+    "update_interval": 3,
+    "api_region": "cn"
+  },
+  "rune": {
+    "reminds": {
+      "level": [
+        {
+          "delay": 3,
+          "additional_text": "咋磨磨唧唧的,符文都出了30秒了还不吃?留着过年啊你"
+        },
+        {
+          "delay": 6,
+          "additional_text": "靓仔,号不想要了? 符文都出了60秒,不如想好ticket怎么写算了"
+        }
+      ],
+      "send_interval": 10,
+      "pm_only": true,
+      "qq": 1624235672
+    }
+  }
+}

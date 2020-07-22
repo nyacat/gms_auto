@@ -1,0 +1,9 @@
+{
+    "target_confidence": 0.9,
+    "move_interval": 0.1,
+    "wait_use_tab": 0.15,
+    "wait_for_update": 0.15,
+    "key_buy": "b",
+    "key_exit": "esc",
+    "key_next": "n"
+}
